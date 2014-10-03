@@ -1,4 +1,4 @@
 movatools
 =========
 
-tools to work with belorussian language
+tools to work with belаrusian language
